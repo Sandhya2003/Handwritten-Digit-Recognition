@@ -1,10 +1,6 @@
 # Handwritten-Digit-Recognition-CNN-Flask-App-
 A Convolutional Neural Network model created using PyTorch library over the MNIST dataset to recognize handwritten digits . <br />
 
-The dataset can be downloaded from here : <br />
-https://drive.google.com/drive/folders/1z4iFh1gJiRS3BpdzhYwf9tZGbh__CDNg?usp=sharing <br />
-Download the dataset and store it in a folder(create new) named "data" in the main directory.
-<br />
 
 The MNIST dataset is an acronym that stands for the Modified National Institute of Standards and Technology dataset.
 
